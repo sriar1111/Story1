@@ -1,0 +1,1 @@
+This chapter is to prove that new changes are added in the main channel with changes in the branches not yet merged yet.
